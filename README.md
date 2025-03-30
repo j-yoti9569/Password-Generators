@@ -1,1 +1,1 @@
-A password generator is a tool or program that creates strong,random password to enhance security.It helps users generate complex password that are difficult to guess or crack.These password typically include mix of the uppercae ,lowecase letters,number and sprcial charcter.
+A password generator is a tool or program that creates strong,random password to enhance security.It helps users generate complex password that are difficult to guess or crack.These password typically include mix of the uppercae ,lowecase letters,number and special charcter.
